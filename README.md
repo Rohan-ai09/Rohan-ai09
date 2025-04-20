@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rohanpatange1102@gmail.com**
 
-- ⚡ Fun fact **Sarcastic**
+- ⚡ Fun fact **Professionally Sarcastic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
