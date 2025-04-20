@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan-ai09&label=Profile%20views&color=0e75b6&style=flat" alt="rohan-ai09" /> </p>
 
-- 🌱 I’m currently learning **Project Management, Artificial Intelligence(AI),Software Testing , Data Science**
+- 🌱 I’m currently learning **Project Management,Artificial Intelligence(AI),Software Testing,Data Science**
 
 - 📫 How to reach me **rohanpatange1102@gmail.com**
 
